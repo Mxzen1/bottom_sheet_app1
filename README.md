@@ -1,1 +1,1 @@
-![UI](GIF/Bottom_Sheet.gif)
+![UI](GIF/BottomSheet.gif)
